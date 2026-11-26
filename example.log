@@ -1,0 +1,3 @@
+Legendre type matrices: 72, equal to the exotic matrices of legendre.py: True
+exact projective order 7 for (eps+, eps-) in [(-1, 1), (0, 1), (1, -1), (1, 0)]
+exact projective order 15 for (eps+, eps-) in [(-1, 0), (0, -1)]

@@ -1,0 +1,7 @@
+K = F_2, q = 5: H(s,t) and H(gs,gt) equivalent, for 6 random configurations and g in PSL_2: [True, True, True, True, True, True]
+K = F_2, q = 7: H(s,t) and H(gs,gt) equivalent, for 6 random configurations and g in PSL_2: [True, True, True, True, True, True]
+K = F_2, q = 5: same defect for (s,t) and (gs,gt), for 20 random configurations and g in PGL_2: True
+K = F_2, q = 7: same defect for (s,t) and (gs,gt), for 20 random configurations and g in PGL_2: True
+K = F_2, q = 11: same defect for (s,t) and (gs,gt), for 10 random configurations and g in PGL_2: True
+K = F_3, q = 5: same defect for (s,t) and (gs,gt), for 20 random configurations and g in PGL_2: True
+K = F_3, q = 7: same defect for (s,t) and (gs,gt), for 20 random configurations and g in PGL_2: True

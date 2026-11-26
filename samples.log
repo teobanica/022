@@ -1,0 +1,131 @@
+cross-check at order 25: [True, True, True]
+N=3 q=5:
+    1 distinct s, 2 distinct t: defects {16: 12}
+    1 distinct s, 3 distinct t: defects {16: 11}
+    2 distinct s, 1 distinct t: defects {16: 10}
+    2 distinct s, 2 distinct t: defects {0: 109}
+    2 distinct s, 3 distinct t: defects {4: 68}
+    3 distinct s, 1 distinct t: defects {16: 6}
+    3 distinct s, 2 distinct t: defects {4: 63}
+    3 distinct s, 3 distinct t: defects {0: 33}
+N=3 q=7:
+    1 distinct s, 2 distinct t: defects {24: 1}
+    1 distinct s, 3 distinct t: defects {24: 2}
+    2 distinct s, 1 distinct t: defects {24: 2}
+    2 distinct s, 2 distinct t: defects {0: 39}
+    2 distinct s, 3 distinct t: defects {0: 14, 6: 47}
+    3 distinct s, 1 distinct t: defects {24: 5}
+    3 distinct s, 2 distinct t: defects {0: 16, 6: 25}
+    3 distinct s, 3 distinct t: defects {0: 61}
+N=3 q=11:
+    2 distinct s, 2 distinct t: defects {0: 2}
+    2 distinct s, 3 distinct t: defects {0: 8, 10: 8}
+    3 distinct s, 2 distinct t: defects {0: 8, 10: 2}
+    3 distinct s, 3 distinct t: defects {0: 44}
+N=3 q=13:
+    2 distinct s, 3 distinct t: defects {0: 4, 12: 4}
+    3 distinct s, 1 distinct t: defects {48: 1}
+    3 distinct s, 2 distinct t: defects {0: 3, 12: 1}
+    3 distinct s, 3 distinct t: defects {0: 39}
+N=3 q=17:
+    2 distinct s, 2 distinct t: defects {0: 2}
+    2 distinct s, 3 distinct t: defects {0: 2, 16: 1}
+    3 distinct s, 2 distinct t: defects {0: 3}
+    3 distinct s, 3 distinct t: defects {0: 24}
+N=5 q=5:
+    1 distinct s, 2 distinct t: defects {16: 1}
+    1 distinct s, 3 distinct t: defects {16: 1}
+    2 distinct s, 2 distinct t: defects {0: 9}
+    2 distinct s, 3 distinct t: defects {0: 21, 4: 4, 8: 2, 20: 3}
+    2 distinct s, 4 distinct t: defects {0: 15}
+    3 distinct s, 2 distinct t: defects {0: 21, 4: 4, 8: 3, 20: 1, 24: 2}
+    3 distinct s, 3 distinct t: defects {0: 38, 4: 13, 16: 2}
+    4 distinct s, 1 distinct t: defects {16: 1}
+    4 distinct s, 2 distinct t: defects {0: 9}
+N=5 q=7:
+    2 distinct s, 2 distinct t: defects {0: 1}
+    2 distinct s, 3 distinct t: defects {0: 6, 6: 3, 12: 1}
+    2 distinct s, 4 distinct t: defects {0: 4}
+    2 distinct s, 5 distinct t: defects {6: 1}
+    3 distinct s, 2 distinct t: defects {0: 5, 6: 1}
+    3 distinct s, 3 distinct t: defects {0: 30, 6: 9, 12: 2}
+    3 distinct s, 4 distinct t: defects {0: 30, 6: 4}
+    3 distinct s, 5 distinct t: defects {0: 2}
+    4 distinct s, 2 distinct t: defects {0: 5}
+    4 distinct s, 3 distinct t: defects {0: 27, 6: 2}
+    4 distinct s, 4 distinct t: defects {0: 15}
+    5 distinct s, 2 distinct t: defects {6: 1}
+    5 distinct s, 3 distinct t: defects {0: 1}
+N=5 q=11:
+    3 distinct s, 3 distinct t: defects {0: 3, 20: 1}
+    3 distinct s, 4 distinct t: defects {0: 6}
+    3 distinct s, 5 distinct t: defects {0: 1}
+    4 distinct s, 3 distinct t: defects {0: 4}
+    4 distinct s, 4 distinct t: defects {0: 9}
+    4 distinct s, 5 distinct t: defects {0: 2}
+    5 distinct s, 3 distinct t: defects {0: 5}
+    5 distinct s, 4 distinct t: defects {0: 6}
+    5 distinct s, 5 distinct t: defects {0: 15}
+N=5 q=13:
+    2 distinct s, 3 distinct t: defects {24: 1}
+    3 distinct s, 4 distinct t: defects {0: 1}
+    3 distinct s, 5 distinct t: defects {0: 3}
+    4 distinct s, 3 distinct t: defects {0: 3}
+    4 distinct s, 4 distinct t: defects {0: 10}
+    4 distinct s, 5 distinct t: defects {0: 2}
+    5 distinct s, 3 distinct t: defects {0: 2}
+    5 distinct s, 4 distinct t: defects {0: 6}
+    5 distinct s, 5 distinct t: defects {0: 14}
+N=7 q=7:
+    2 distinct s, 2 distinct t: defects {0: 1}
+    2 distinct s, 4 distinct t: defects {0: 2}
+    2 distinct s, 5 distinct t: defects {0: 1}
+    3 distinct s, 3 distinct t: defects {0: 3, 6: 1}
+    3 distinct s, 4 distinct t: defects {0: 11, 6: 1, 12: 1}
+    3 distinct s, 5 distinct t: defects {0: 5}
+    4 distinct s, 2 distinct t: defects {0: 1}
+    4 distinct s, 3 distinct t: defects {0: 12, 6: 1}
+    4 distinct s, 4 distinct t: defects {0: 15}
+    5 distinct s, 2 distinct t: defects {0: 2}
+    5 distinct s, 3 distinct t: defects {0: 2}
+    6 distinct s, 2 distinct t: defects {0: 1}
+N=7 q=11:
+    3 distinct s, 6 distinct t: defects {0: 1}
+    4 distinct s, 4 distinct t: defects {0: 5}
+    4 distinct s, 5 distinct t: defects {0: 9}
+    4 distinct s, 6 distinct t: defects {0: 5}
+    5 distinct s, 3 distinct t: defects {0: 1}
+    5 distinct s, 4 distinct t: defects {0: 4}
+    5 distinct s, 5 distinct t: defects {0: 22}
+    5 distinct s, 6 distinct t: defects {0: 5}
+    6 distinct s, 2 distinct t: defects {0: 1}
+    6 distinct s, 3 distinct t: defects {0: 2}
+    6 distinct s, 4 distinct t: defects {0: 2}
+    6 distinct s, 5 distinct t: defects {0: 3}
+N=7 q=13:
+    3 distinct s, 6 distinct t: defects {0: 1}
+    3 distinct s, 7 distinct t: defects {0: 2}
+    4 distinct s, 5 distinct t: defects {0: 2}
+    4 distinct s, 6 distinct t: defects {0: 2}
+    4 distinct s, 7 distinct t: defects {0: 1}
+    5 distinct s, 4 distinct t: defects {0: 5}
+    5 distinct s, 5 distinct t: defects {0: 7}
+    5 distinct s, 6 distinct t: defects {0: 4}
+    5 distinct s, 7 distinct t: defects {0: 1}
+    6 distinct s, 3 distinct t: defects {0: 1}
+    6 distinct s, 4 distinct t: defects {0: 3}
+    6 distinct s, 5 distinct t: defects {0: 6}
+    6 distinct s, 6 distinct t: defects {0: 3}
+    7 distinct s, 4 distinct t: defects {0: 1}
+    7 distinct s, 5 distinct t: defects {0: 1}
+    7 distinct s, 7 distinct t: defects {0: 12}
+N=7 q=17:
+    4 distinct s, 6 distinct t: defects {0: 1}
+    4 distinct s, 7 distinct t: defects {0: 2}
+    5 distinct s, 4 distinct t: defects {0: 1}
+    5 distinct s, 5 distinct t: defects {0: 2}
+    5 distinct s, 6 distinct t: defects {0: 3}
+    5 distinct s, 7 distinct t: defects {0: 2}
+    6 distinct s, 5 distinct t: defects {0: 2}
+    6 distinct s, 6 distinct t: defects {0: 2}
+    7 distinct s, 7 distinct t: defects {0: 12}

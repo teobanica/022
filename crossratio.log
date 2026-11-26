@@ -1,0 +1,24 @@
+q=3: rule holds: True
+    lambda:square or not:defect:level   2:N:0:3
+q=5: rule holds: True
+    lambda:square or not:defect:level   2:N:0:5 3:N:0:5 4:S:8:10
+q=7: rule holds: True
+    lambda:square or not:defect:level   2:S:12:14 3:N:0:7 4:S:12:14 5:N:0:7 6:N:0:7
+q=11: rule holds: True
+    lambda:square or not:defect:level   2:N:0:11 3:S:20:22 4:S:20:22 5:S:20:22 6:N:0:11 7:N:0:11 8:N:0:11 9:S:20:22 10:N:0:11
+q=13: rule holds: True
+    lambda:square or not:defect:level   2:N:0:13 3:S:24:26 4:S:24:26 5:N:0:13 6:N:0:13 7:N:0:13 8:N:0:13 9:S:24:26 10:S:24:26 11:N:0:13 12:S:24:26
+q=17: rule holds: True
+    lambda:square or not:defect:level   2:S:32:34 3:N:0:17 4:S:32:34 5:N:0:17 6:N:0:17 7:N:0:17 8:S:32:34 9:S:32:34 10:N:0:17 11:N:0:17 12:N:0:17 13:S:32:34 14:N:0:17 15:S:32:34 16:S:32:34
+q=19: rule holds: True
+    lambda:square or not:defect:level   2:N:0:19 3:N:0:19 4:S:36:38 5:S:36:38 6:S:36:38 7:S:36:38 8:N:0:19 9:S:36:38 10:N:0:19 11:S:36:38 12:N:0:19 13:N:0:19 14:N:0:19 15:N:0:19 16:S:36:38 17:S:36:38 18:N:0:19
+q=23: rule holds: True
+    lambda:square or not:defect:level   2:S:44:46 3:S:44:46 4:S:44:46 5:N:0:23 6:S:44:46 7:N:0:23 8:S:44:46 9:S:44:46 10:N:0:23 11:N:0:23 12:S:44:46 13:S:44:46 14:N:0:23 15:N:0:23 16:S:44:46 17:N:0:23 18:S:44:46 19:N:0:23 20:N:0:23 21:N:0:23 22:N:0:23
+odd and even labels, D^k F_q = T_{k/2} F_q up to a permutation of the columns:
+    q=5 (2 mod 3): cross-ratio 3, square: False, defect 0
+    q=7 (1 mod 3): cross-ratio 2, square: True, defect 12
+    q=11 (2 mod 3): cross-ratio 7, square: False, defect 0
+    q=13 (1 mod 3): cross-ratio 4, square: True, defect 24
+    q=17 (2 mod 3): cross-ratio 11, square: False, defect 0
+    q=19 (1 mod 3): cross-ratio 6, square: True, defect 36
+    q=23 (2 mod 3): cross-ratio 15, square: False, defect 0

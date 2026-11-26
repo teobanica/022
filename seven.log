@@ -1,0 +1,28 @@
+p = 5: supersingular 500, Clifford 500, equal sets: True
+p = 7, all F P (D = 1) | 5040 matrices | min valuations of e_k: [0, 1, 3, 6, 9, 12, 16, 21]
+    slopes 1 2 3 3 3 4 5   count 3528
+    slopes 1 3 3 3 3 3 5   count 882
+    slopes 3/2 3/2 3 3 3 9/2 9/2   count 588
+    slopes 3 3 3 3 3 3 3   count 42
+    supersingular all Clifford: True 42
+p = 7, P = identity, all D | 117649 matrices | min valuations of e_k: [0, 1, 3, 6, 9, 12, 16, 21]
+    slopes 1 2 3 3 3 4 5   count 86436
+    slopes 1 5/2 5/2 3 7/2 7/2 5   count 12348
+    slopes 1 3 3 3 3 3 5   count 2058
+    slopes 3/2 3/2 3 3 3 9/2 9/2   count 14406
+    slopes 2 2 2 3 4 4 4   count 2058
+    slopes 2 5/2 5/2 3 7/2 7/2 4   count 294
+    slopes 3 3 3 3 3 3 3   count 49
+    supersingular 49, all Clifford: True
+p = 7, P = inversion, all D | 117649 matrices | min valuations of e_k: [0, 1, 2, 4, 7, 11, 16, 21]
+    slopes 1 1 2 3 4 5 5   count 100842
+    slopes 1 2 2 3 4 4 5   count 14406
+    slopes 1 2 3 3 3 4 5   count 2107
+    slopes 1 3 3 3 3 3 5   count 294
+    supersingular 0, all Clifford: True
+p = 7, P = cube j^5, all D | 117649 matrices | min valuations of e_k: [0, 1, 2, 4, 7, 11, 16, 21]
+    slopes 1 1 2 3 4 5 5   count 100842
+    slopes 1 2 2 3 4 4 5   count 14406
+    slopes 1 2 3 3 3 4 5   count 2107
+    slopes 1 3 3 3 3 3 5   count 294
+    supersingular 0, all Clifford: True

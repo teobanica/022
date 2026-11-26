@@ -1,0 +1,16 @@
+W_8       Smith(H) = 1 + 2 Smith(M): True | factors of valuation 1: 3 = rank_2(M): 3 | Smith form: {1: 1, 2: 3, 4: 3, 8: 1}
+W_16      Smith(H) = 1 + 2 Smith(M): True | factors of valuation 1: 4 = rank_2(M): 4 | Smith form: {1: 1, 2: 4, 4: 6, 8: 4, 16: 1}
+W_32      Smith(H) = 1 + 2 Smith(M): True | factors of valuation 1: 5 = rank_2(M): 5 | Smith form: {1: 1, 2: 5, 4: 10, 8: 10, 16: 5, 32: 1}
+Paley 12  Smith(H) = 1 + 2 Smith(M): True | factors of valuation 1: 10 = rank_2(M): 10 | Smith form: {1: 1, 2: 5, 6: 5, 12: 1}
+Paley 20  Smith(H) = 1 + 2 Smith(M): True | factors of valuation 1: 18 = rank_2(M): 18 | Smith form: {1: 1, 2: 9, 10: 9, 20: 1}
+Paley 24  Smith(H) = 1 + 2 Smith(M): True | factors of valuation 1: 11 = rank_2(M): 11 | Smith form: {1: 1, 2: 11, 12: 11, 24: 1}
+p=3: bent functions on Z_3^2: 486, all of degree <= 2: True | of type x s(y)+t(y): 162 | of type y s(x)+t(x): 162 | union: 270
+F_p P D is bent, and its dual (F H F)^t / p is again of the form F_p P' D': True
+p= 3 (p mod 4 = 3): chirp eigenvectors of F_p, with eigenvalue/sqrt p: []
+p= 5 (p mod 4 = 1): chirp eigenvectors of F_p, with eigenvalue/sqrt p: [(1, np.complex128(1+0j)), (4, np.complex128(1+0j))]
+p= 7 (p mod 4 = 3): chirp eigenvectors of F_p, with eigenvalue/sqrt p: []
+p=11 (p mod 4 = 3): chirp eigenvectors of F_p, with eigenvalue/sqrt p: []
+p=13 (p mod 4 = 1): chirp eigenvectors of F_p, with eigenvalue/sqrt p: [(4, np.complex128(1-0j)), (9, np.complex128(1-0j))]
+p=17 (p mod 4 = 1): chirp eigenvectors of F_p, with eigenvalue/sqrt p: [(2, np.complex128(1+0j)), (15, np.complex128(1+0j))]
+p=19 (p mod 4 = 3): chirp eigenvectors of F_p, with eigenvalue/sqrt p: []
+p=29 (p mod 4 = 1): chirp eigenvectors of F_p, with eigenvalue/sqrt p: [(6, np.complex128(1+0j)), (23, np.complex128(1+0j))]

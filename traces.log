@@ -1,0 +1,44 @@
+s=x^3       p=  5 perm=y  |Tr U^n|/d^n, n=1..6: 0.66 0.23 0.04 0.02* 0.01 0.01
+s=x^3       p=  7 perm=n  |Tr U^n|/d^n, n=1..6: 0.33 0.11 0.04* 0.04 0.00 0.00*
+s=x^3       p= 11 perm=y  |Tr U^n|/d^n, n=1..6: 0.33 0.11 0.04 0.14 0.00 0.00
+s=x^3       p= 13 perm=n  |Tr U^n|/d^n, n=1..6: 0.39 0.52 0.07 0.05 0.01 0.00*
+s=x^3       p= 17 perm=y  |Tr U^n|/d^n, n=1..6: 0.74 0.01 0.03 0.06 0.00 0.01
+s=x^3       p= 23 perm=y  |Tr U^n|/d^n, n=1..6: 0.33 0.11 0.04 0.04 0.00 0.00
+s=x^3       p= 29 perm=y  |Tr U^n|/d^n, n=1..6: 0.73 0.13 0.22 0.05 0.01 0.02
+s=x^3       p= 41 perm=y  |Tr U^n|/d^n, n=1..6: 0.11 0.31 0.10 0.00 0.00 0.00
+s=x^3       p= 47 perm=y  |Tr U^n|/d^n, n=1..6: 0.33 0.11 0.04 0.04 0.00 0.00
+s=x^3       p= 53 perm=y  |Tr U^n|/d^n, n=1..6: 0.35 0.55 0.05 0.06 0.01 0.03
+s=x^3       p=101 perm=y  |Tr U^n|/d^n, n=1..6: 0.60 0.31 0.06 0.21 0.01 0.00
+   largest ratio over the cases covered by the theorem: 0.744 (must be <= 1); * = excluded case
+s=x^3+x,t=x^3 p=  5 perm=n  |Tr U^n|/d^n, n=1..6: 0.38 0.05 0.01 0.01* 0.00 0.00
+s=x^3+x,t=x^3 p=  7 perm=n  |Tr U^n|/d^n, n=1..6: 0.21 0.24 0.04* 0.04 0.01 0.01*
+s=x^3+x,t=x^3 p= 11 perm=n  |Tr U^n|/d^n, n=1..6: 0.27 0.16 0.03 0.01 0.01 0.00
+s=x^3+x,t=x^3 p= 13 perm=n  |Tr U^n|/d^n, n=1..6: 0.17 0.16 0.08 0.02 0.01 0.00*
+s=x^3+x,t=x^3 p= 17 perm=n  |Tr U^n|/d^n, n=1..6: 0.21 0.08 0.07 0.01 0.01 0.00
+s=x^3+x,t=x^3 p= 23 perm=n  |Tr U^n|/d^n, n=1..6: 0.13 0.07 0.03 0.02 0.01 0.00
+s=x^3+x,t=x^3 p= 29 perm=n  |Tr U^n|/d^n, n=1..6: 0.22 0.23 0.05 0.02 0.01 0.00
+s=x^3+x,t=x^3 p= 41 perm=n  |Tr U^n|/d^n, n=1..6: 0.35 0.04 0.02 0.01 0.00 0.00
+s=x^3+x,t=x^3 p=101 perm=n  |Tr U^n|/d^n, n=1..6: 0.31 0.08 0.04 0.02 0.02 0.00
+   largest ratio over the cases covered by the theorem: 0.377 (must be <= 1); * = excluded case
+s=x^2       p=  3 perm=n  |Tr U^n|/d^n, n=1..6: 0.00* 0.50* 0.00* 0.13* 0.00* 0.03*
+s=x^2       p=  5 perm=n  |Tr U^n|/d^n, n=1..6: 0.00 0.50 0.00 0.12* 0.00 0.03
+s=x^2       p=  7 perm=n  |Tr U^n|/d^n, n=1..6: 0.90 0.80 0.05 0.09 0.04 0.00*
+s=x^2       p= 11 perm=n  |Tr U^n|/d^n, n=1..6: 0.00 0.50 0.00 0.38 0.00* 0.03
+s=x^2       p= 13 perm=n  |Tr U^n|/d^n, n=1..6: 0.25 0.06 0.17 0.19 0.06 0.03
+s=x^2       p= 17 perm=n  |Tr U^n|/d^n, n=1..6: 0.00 0.50 0.00 0.12 0.00 0.03
+s=x^2       p= 31 perm=n  |Tr U^n|/d^n, n=1..6: 0.92 0.85 0.09 0.11 0.03 0.01
+s=x^2       p= 43 perm=n  |Tr U^n|/d^n, n=1..6: 0.74 0.54 0.15 0.00 0.05 0.02
+   largest ratio over the cases covered by the theorem: 0.921 (must be <= 1); * = excluded case
+s=x^5       p=  7 perm=y  |Tr U^n|/d^n, n=1..4: 0.50 0.14 0.01* 0.00
+s=x^5       p= 11 perm=n  |Tr U^n|/d^n, n=1..4: 0.20 0.04 0.01 0.00
+s=x^5       p= 13 perm=y  |Tr U^n|/d^n, n=1..4: 0.64 0.15 0.00 0.01*
+s=x^5       p= 17 perm=y  |Tr U^n|/d^n, n=1..4: 0.20 0.32 0.01 0.02
+s=x^5       p= 23 perm=y  |Tr U^n|/d^n, n=1..4: 0.20 0.04 0.01 0.00
+s=x^5       p= 31 perm=n  |Tr U^n|/d^n, n=1..4: 0.60 0.10 0.01 0.00
+s=x^5       p=521 perm=n  |Tr U^n|/d^n, n=1..4: 0.20 0.18 0.01 0.02
+   largest ratio over the cases covered by the theorem: 0.645 (must be <= 1); * = excluded case
+p= 101  |Tr U^n|/p for n=1..5: 0.0177 0.0277 0.0154 0.1687 0.0197
+p= 503  |Tr U^n|/p for n=1..5: 0.0020 0.0020 0.0020 0.0060 0.0020
+p=1013  |Tr U^n|/p for n=1..5: 0.0012 0.0044 0.0021 0.0030 0.0021
+p=2003  |Tr U^n|/p for n=1..5: 0.0005 0.0005 0.0042 0.0015 0.0005
+Alltop type, p<=211, n<=8: largest |Tr U^n|/2^n = 0.928 (must be <= 1)

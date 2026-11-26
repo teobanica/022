@@ -1,0 +1,3 @@
+criterion agrees with the search for all 237 primes: True
+primes having exotic power maps: 219, exceptions: [5, 7, 13, 17, 31, 41, 61, 97, 103, 137, 193, 241, 257, 409, 641, 769, 1021, 1361]
+smallest d for the first primes: [(11, 3), (19, 7), (23, 3), (29, 9), (37, 13), (43, 25)]

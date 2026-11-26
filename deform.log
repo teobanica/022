@@ -1,0 +1,27 @@
+q=5 lambda=4 (square): 8 nontrivial first order directions
+    start at distance 0.05: residual 5.6e-14, final distance from H 0.0505
+    start at distance 0.20: residual 1.8e-10, final distance from H 0.1959
+    start at distance 0.05: residual 8.7e-15, final distance from H 0.0500
+    start at distance 0.20: residual 3.3e-11, final distance from H 0.1995
+    start at distance 0.05: residual 2.0e-14, final distance from H 0.0497
+    start at distance 0.20: residual 7.0e-11, final distance from H 0.1957
+    start at distance 0.05: residual 6.8e-15, final distance from H 0.0498
+    start at distance 0.20: residual 2.6e-11, final distance from H 0.1964
+q=7 lambda=2 (square): 12 nontrivial first order directions
+    start at distance 0.05: residual 6.5e-12, final distance from H 0.0501
+    start at distance 0.20: residual 4.8e-11, final distance from H 0.1486
+    start at distance 0.05: residual 3.3e-12, final distance from H 0.0500
+    start at distance 0.20: residual 5.3e-12, final distance from H 0.1616
+    start at distance 0.05: residual 4.2e-12, final distance from H 0.0499
+    start at distance 0.20: residual 3.4e-12, final distance from H 0.1774
+    start at distance 0.05: residual 7.3e-12, final distance from H 0.0500
+    start at distance 0.20: residual 3.5e-11, final distance from H 0.1239
+q=5 lambda=2 (non-square): 0 nontrivial first order directions
+    start at distance 0.05: residual 4.9e-16, final distance from H 0.0000
+    start at distance 0.20: residual 6.7e-16, final distance from H 0.0000
+    start at distance 0.05: residual 6.9e-16, final distance from H 0.0000
+    start at distance 0.20: residual 8.3e-16, final distance from H 0.0000
+    start at distance 0.05: residual 4.4e-16, final distance from H 0.0000
+    start at distance 0.20: residual 4.4e-16, final distance from H 0.0000
+    start at distance 0.05: residual 5.6e-16, final distance from H 0.0000
+    start at distance 0.20: residual 6.7e-16, final distance from H 0.0000

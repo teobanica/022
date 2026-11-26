@@ -1,0 +1,17 @@
+p= 3 c= 1  G/sqrt p = 1j  star-triangle for t=+s,-s,is,1: [False, False, True, False]  W/sqrt p of finite order: True  (F T)^3: scalar x F^2
+p= 3 c= 2  G/sqrt p = (-0-1j)  star-triangle for t=+s,-s,is,1: [False, False, True, False]  W/sqrt p of finite order: True  (F T)^3: scalar
+p= 5 c= 1  G/sqrt p = (1+0j)  star-triangle for t=+s,-s,is,1: [True, True, False, True]  W/sqrt p of finite order: True  (F T)^3: -
+p= 5 c= 2  G/sqrt p = (-1+0j)  star-triangle for t=+s,-s,is,1: [True, True, False, False]  W/sqrt p of finite order: True  (F T)^3: scalar x F^2
+p= 5 c= 3  G/sqrt p = (-1+0j)  star-triangle for t=+s,-s,is,1: [True, True, False, False]  W/sqrt p of finite order: True  (F T)^3: scalar
+p= 7 c= 1  G/sqrt p = (-0+1j)  star-triangle for t=+s,-s,is,1: [False, False, True, False]  W/sqrt p of finite order: True  (F T)^3: -
+p= 7 c= 2  G/sqrt p = (-0+1j)  star-triangle for t=+s,-s,is,1: [False, False, True, False]  W/sqrt p of finite order: True  (F T)^3: -
+p= 7 c= 3  G/sqrt p = (-0-1j)  star-triangle for t=+s,-s,is,1: [False, False, True, False]  W/sqrt p of finite order: True  (F T)^3: scalar x F^2
+p= 7 c= 4  G/sqrt p = (-0+1j)  star-triangle for t=+s,-s,is,1: [False, False, True, False]  W/sqrt p of finite order: True  (F T)^3: scalar
+p=11 c= 1  G/sqrt p = (-0+1j)  star-triangle for t=+s,-s,is,1: [False, False, True, False]  W/sqrt p of finite order: True  (F T)^3: -
+p=11 c= 2  G/sqrt p = (-0-1j)  star-triangle for t=+s,-s,is,1: [False, False, True, False]  W/sqrt p of finite order: True  (F T)^3: -
+p=11 c= 5  G/sqrt p = (-0+1j)  star-triangle for t=+s,-s,is,1: [False, False, True, False]  W/sqrt p of finite order: True  (F T)^3: scalar x F^2
+p=11 c= 6  G/sqrt p = (-0-1j)  star-triangle for t=+s,-s,is,1: [False, False, True, False]  W/sqrt p of finite order: True  (F T)^3: scalar
+p=13 c= 1  G/sqrt p = (1-0j)  star-triangle for t=+s,-s,is,1: [True, True, False, True]  W/sqrt p of finite order: True  (F T)^3: -
+p=13 c= 2  G/sqrt p = (-1+0j)  star-triangle for t=+s,-s,is,1: [True, True, False, False]  W/sqrt p of finite order: True  (F T)^3: -
+p=13 c= 6  G/sqrt p = (-1+0j)  star-triangle for t=+s,-s,is,1: [True, True, False, False]  W/sqrt p of finite order: True  (F T)^3: scalar x F^2
+p=13 c= 7  G/sqrt p = (-1+0j)  star-triangle for t=+s,-s,is,1: [True, True, False, False]  W/sqrt p of finite order: True  (F T)^3: scalar

@@ -1,0 +1,10 @@
+n= 3  deg W =  4  W(1) = 1  real Weil polynomial = P_n(3-t): True
+n= 4  deg W =  4  W(1) = 1  real Weil polynomial = P_n(3-t): True
+n= 5  deg W =  8  W(1) = 1  real Weil polynomial = P_n(3-t): True
+n= 7  deg W = 12  W(1) = 1  real Weil polynomial = P_n(3-t): True
+n= 8  deg W =  8  W(1) = 1  real Weil polynomial = P_n(3-t): True
+n= 9  deg W = 12  W(1) = 1  real Weil polynomial = P_n(3-t): True
+n=12  deg W =  8  W(1) = 1  real Weil polynomial = P_n(3-t): True
+n=15  deg W = 16  W(1) = 1  real Weil polynomial = P_n(3-t): True
+n=16  deg W = 16  W(1) = 1  real Weil polynomial = P_n(3-t): True
+n=30  deg W = 16  W(1) = 1  real Weil polynomial = P_n(3-t): True

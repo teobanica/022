@@ -1,0 +1,7 @@
+p = 5: 200 matrices, 20 of finite order, 0 of them not Clifford
+p = 7: 882 matrices, 114 of finite order, 72 of them not Clifford
+   projective order 7, eigenvalues exp(2 pi i k/7) with k in [0, 1, 2, 3, 4, 5, 6]: 48 matrices
+   projective order 15, eigenvalues exp(2 pi i k/15) with k in [0, 3, 5, 6, 9, 10, 12]: 24 matrices
+   parameters (a,b,c,e): [(1, 2, 1, 1), (1, 2, 1, 4), (1, 2, 2, 5), (1, 2, 5, 2), (1, 2, 6, 3), (1, 2, 6, 6), (1, 5, 1, 3), (1, 5, 1, 6), (1, 5, 2, 2), (1, 5, 5, 5), (1, 5, 6, 1), (1, 5, 6, 4)] ...
+p = 11: 6050 matrices, 110 of finite order, 0 of them not Clifford
+p = 13: 12168 matrices, 156 of finite order, 0 of them not Clifford
