@@ -1,0 +1,26 @@
+{
+  "title": "Arithmetic aspects of complex Hadamard matrices",
+  "description": "<p>The eigenvalues of a complex Hadamard matrix having roots of unity as entries are Weil numbers. In prime order p this produces an abelian variety over the field with p elements, whose Frobenius map and Verschiebung are given by the matrix and by its adjoint. In order 2 we recover the abelian varieties over the field with 2 elements having a single point. For the matrices which are equivalent to the Fourier matrix of order p we compute the Hodge polygon, we bound the Newton polygons, we study the finite order case, where exotic examples appear, and we estimate the traces of the powers, by using the Deligne bounds. We also show that the McNulty-Weigert matrices of order 2q are isolated precisely when a certain cross-ratio is not a square modulo q, and we discuss spin models and Ising arrays.</p>",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "creators": [
+    {
+      "name": "Claude F"
+    },
+    {
+      "name": "Banica, Teodor",
+      "affiliation": "CY Cergy Paris Université",
+      "orcid": "0000-0003-4680-0364"
+    }
+  ],
+  "keywords": [
+    "Hadamard matrix",
+    "Weil number",
+    "abelian variety",
+    "Gauss sum",
+    "Newton polygon",
+    "Clifford group",
+    "mutually unbiased bases",
+    "defect"
+  ]
+}
